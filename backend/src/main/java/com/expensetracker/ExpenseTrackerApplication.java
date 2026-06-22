@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ExpenseTrackerApplication {
 
     public static void main(String[] args) {
+        System.out.println("URL = " + System.getenv("SPRING_DATASOURCE_URL"));
+        System.out.println("USER = " + System.getenv("SPRING_DATASOURCE_USERNAME"));
         SpringApplication.run(ExpenseTrackerApplication.class, args);
     }
 }
