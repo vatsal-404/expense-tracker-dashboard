@@ -143,18 +143,7 @@ http://localhost:3000
 
 ---
 
-## Screenshots
 
-Add screenshots here after uploading the project to GitHub.
-
-Example:
-
-* Dashboard View
-* Dark Mode
-* Charts View
-* Expense Management
-
----
 
 ## Future Enhancements
 
